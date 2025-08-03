@@ -1,0 +1,11 @@
+/.venv
+/build
+/dist
+/Faces
+/models
+*/__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.spec
